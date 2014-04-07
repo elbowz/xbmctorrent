@@ -31,6 +31,7 @@
         <setting id="base_bitsnoop" type="text" label="BitSnoop" default="http://bitsnoop.com" />
         <setting id="base_extratorrent" type="text" label="ExtraTorrent" default="http://extratorrent.cc" />
         <setting id="base_btdigg" type="text" label="BTDigg" default="http://btdigg.org" />
+        <setting id="base_ilcorsaronero" type="text" label="IlCorsaronero" default="http://ilcorsaronero.info" />
 
         <setting label="Google Analytics" type="lsep"/>
         <setting id="ga_disable" type="bool" label="Disable (except for index)" default="false" />
